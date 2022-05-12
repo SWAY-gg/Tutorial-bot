@@ -8,7 +8,8 @@ from setting.config import setting
 
 # Коги
 cogs = [
-    "Admin"
+    "Admin",
+    "Mute"
 ]
 
 # Класс Main
